@@ -8,7 +8,7 @@ The "email-validator-util" package provides a simple and effective tool for vali
 
 ## Installation
 
-You can install the ReactTextIlluminator component
+You can install the Email Validator Util
 
 via npm:
 
@@ -24,6 +24,9 @@ yarn add email-validator-util
 
 ## Features
 
+- Minimal footprint, ideal for performance-sensitive applications
+- Zero dependencies: Self-contained solution, ensuring reliability and ease of deployment.
+- Optimized codebase for fast execution and minimal resource consumption
 - Fast and accurate validation of email addresses.
 - Compatible with both JavaScript and TypeScript.
 - Easy integration into existing projects via npm.
@@ -42,7 +45,7 @@ console.log(validateEmail('test@email.com'));
 
 ## Documentation
 
-[Documentation](https://github.com/fredarcito/react-text-illuminator)
+[Documentation](https://github.com/fredarcito/email-validator-util)
 
 ## License
 

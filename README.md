@@ -35,13 +35,25 @@ yarn add email-validator-util
 
 ## Usage
 
-To use the email-validator-util , simply import it into your React application and include it in your JSX markup.
+1. Importing:
+   Import the validateEmail function into your code file where you want to use it:
 
 ```jsx
 import validateEmail from 'email-validator-util';
-
-console.log(validateEmail('test@email.com'));
 ```
+
+2. Email Validation:
+   Use the validateEmail function to check the validity of an email address:
+
+```jsx
+const email = 'example@example.com';
+const isValid = validateEmail(email);
+console.log(`Is the email valid? ${isValid}`);
+```
+
+Integration into Existing Projects:
+
+Integrating "email-validator-util" into your existing projects is straightforward. Simply install the package and start using the validateEmail function where needed.
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -33,6 +33,21 @@
   },
   "name": "email-validator-util",
   "author": "fredarcito",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredarcito/email-validator-util.git"
+  },
+  "homepage": "https://github.com/fredarcito/email-validator-util",
+  "keywords": [
+    "email",
+    "validator",
+    "utility",
+    "check",
+    "react",
+    "reactjs",
+    "matches",
+    "tool"
+  ],
   "module": "dist/email-validator-util.esm.js",
   "size-limit": [
     {
